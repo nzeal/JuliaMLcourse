@@ -1,0 +1,3 @@
+# JuliaMLcourse
+
+We are going to focus on ...
